@@ -1,0 +1,9 @@
+# Set the size of the maze
+number of rows = 10
+number of columns = 20
+
+# Set the starting location 
+start_location = (8,15)
+
+# Set the destination location
+end_location = (5,10)
