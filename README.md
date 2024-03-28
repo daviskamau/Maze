@@ -1,7 +1,5 @@
 # Maze
 Implementation of DFS (Depth First Search) algorithm in Python language to solve a maze in various sizes, starting and ending location
-# DFS-Maze-Solving
-Implementation of DFS (Depth First Search) algorithm in Python language to solve a maze in various sizes, starting and ending location.
  ### Step 1
  Install the required library by  
 `pip install pyamaze`  
